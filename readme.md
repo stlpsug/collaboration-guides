@@ -75,7 +75,7 @@ Sometimes it's easier to look for other people who already possess certain infor
 - If you need a response in less than 4 hours, be mindful of interruptions or ask @michaeltlombardi or @doesitscript first.
 
 #### Acking
-- acking (replying to an email with `ack` or an issue/comment with the hooray reaction (`:tada:`) is an easy way to help others know we're in sync
+- acking (replying to an email with `ack` or an issue/comment with the hooray reaction (:tada:) is an easy way to help others know we're in sync
 - where does ack come from in our team? [read this][ack]
 - **don't reply all**
 
